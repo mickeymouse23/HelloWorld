@@ -1,22 +1,20 @@
-# hello-world December
+# BUDDY
 
-This is Test
+![image](http://static.dnaindia.com/sites/default/files/styles/half/public/2016/04/02/444652-google-photos-emoji-google-image-search-using-emoji-coolkengzz-shutterstock.jpg?itok=b1lBccFF)
 
-- A
-- B
-- D
+![image](https://stepupandlive.files.wordpress.com/2014/09/3d-animated-frog-image.jpg)
 
-```python
-def main:
-    print("3+3")
-```
-![image](http://www.menucool.com/slider/jsImgSlider/images/image-slider-2.jpg)
+![aa](http://www.jqueryscript.net/images/jQuery-Plugin-For-Fullscreen-Image-Viewer-Chroma-Gallery.jpg)
+
+- BUDDY A
+- BUDDY B
+- BUDDY D
+
+
 
 |one|two|
 |---|---|
 |a  |b  |
 
 [I khow everything](https://www.google.co.th)
-
-![image show](http://wallpaper-gallery.net/images/image/image-17.png)
 
